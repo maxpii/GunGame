@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+}
+
+canvas {
+    border: 1px solid black;
+    background-color: mintcream;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 17.4% 27.5% 33%;
+}
+
+.other {
+    margin: auto;
+    text-align: center;
+}
